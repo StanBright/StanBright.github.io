@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2020-09-07T17:27:58+10:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Hello world</title><link href="http://localhost:4001/blog/hello-world" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-07T15:00:50+10:00</published><updated>2020-09-07T15:00:50+10:00</updated><id>http://localhost:4001/blog/hello-world</id><content type="html" xml:base="http://localhost:4001/blog/hello-world">&lt;p&gt;I have decided to start blogging again. I used to blog relatively regullarly about
-10 years ago. More or less, when I was actively developing &lt;a href=&quot;/projects/svejo&quot;&gt;svejo.net&lt;/a&gt;.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2020-09-07T17:38:54+10:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Hello world</title><link href="http://localhost:4001/blog/hello-world" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-07T15:00:50+10:00</published><updated>2020-09-07T15:00:50+10:00</updated><id>http://localhost:4001/blog/hello-world</id><content type="html" xml:base="http://localhost:4001/blog/hello-world">I have decided to start blogging again. I used to blog relatively regullarly about
+10 years ago. More or less, when I was actively developing [svejo.net](/projects/svejo).
 Then I stopped. Blogging regularly requires consistency, time, dedication and even more.
-However, you reap the benefits much later. I guess that’s the reason why many people stop blogging
-(apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc).&lt;/p&gt;
+However, you reap the benefits much later. I guess that's the reason why many people stop blogging
+(apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc).
 
-&lt;p&gt;Yet, I’ve been observing a slight renaissance in blogging in the last year or two.
+Yet, I've been observing a slight renaissance in blogging in the last year or two.
 That, along with the idea that one improves his thinking by writing, made me wanna
-start blogging again.&lt;/p&gt;
+start blogging again.
 
-&lt;p&gt;Apart from that, the idea of building an RSS reader has been boiling
+Apart from that, the idea of building an RSS reader has been boiling
 at the back of my head for almost an year. I even bought a domain a few months ago.
 I have the mantra that one should use what he is building if he wants to make something useful.
 I think that taking an active part in the blogging community would be
-the best way to experience the genuine needs of an RSS reader user.&lt;/p&gt;
+the best way to experience the genuine needs of an RSS reader user.
 
-&lt;p&gt;So, let’s see what happens.&lt;/p&gt;</content><author><name></name></author><category term="Meta" /><summary type="html">I have decided to start blogging again. I used to blog relatively regullarly about 10 years ago. More or less, when I was actively developing svejo.net. Then I stopped. Blogging regularly requires consistency, time, dedication and even more. However, you reap the benefits much later. I guess that’s the reason why many people stop blogging (apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc).</summary></entry></feed>
+So, let's see what happens.</content><author><name></name></author><category term="Meta" /><summary type="html">I have decided to start blogging again. I used to blog relatively regullarly about 10 years ago. More or less, when I was actively developing svejo.net. Then I stopped. Blogging regularly requires consistency, time, dedication and even more. However, you reap the benefits much later. I guess that’s the reason why many people stop blogging (apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc).</summary></entry></feed>
