@@ -3502,6 +3502,8 @@ nav.topnav .links a:not(:last-child) { margin-right: 32px; }
 
 .content .subtitle { font-weight: normal; }
 
+.post-subtitle { color: #7a7a7a; font-size: 1em; margin-bottom: 1.5em !important; }
+
 .projects-list { margin-top: 0.5rem; }
 
 .project-in-list:not(:last-child) { margin-bottom: 1.5rem; }
