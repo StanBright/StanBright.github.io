@@ -3480,6 +3480,10 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus { color: #ff180a !imp
 
 .text-center { text-align: center; }
 
+.text-right { text-align: right; }
+
+.text-small { font-size: 0.9rem; }
+
 ul.is-unstyled { list-style: none; margin: 0; padding: 0; }
 
 nav.topnav { padding-bottom: 0.5rem; }

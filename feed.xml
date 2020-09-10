@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2020-09-09T09:53:23+10:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">“Why” questions</title><link href="http://localhost:4001/blog/why-questions" rel="alternate" type="text/html" title="“Why” questions" /><published>2020-09-09T07:11:00+10:00</published><updated>2020-09-09T07:11:00+10:00</updated><id>http://localhost:4001/blog/why-questions</id><content type="html" xml:base="http://localhost:4001/blog/why-questions">_Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. **“Why” is always an accusation**, in any language._
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2020-09-10T10:58:16+10:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">The 3 Day Domain Name Rule</title><link href="http://localhost:4001/3-day-rule/" rel="alternate" type="text/html" title="The 3 Day Domain Name Rule" /><published>2020-09-10T10:30:00+10:00</published><updated>2020-09-10T10:30:00+10:00</updated><id>http://localhost:4001/3-day-rule</id><content type="html" xml:base="http://localhost:4001/3-day-rule/">I will share one of my little &quot;secrets&quot; that have saved me hundreds
+or thousands of dollars - &quot;The 3 Day Domain Name Rule&quot;.
+
+__The Rule__
+&gt; Whenever you have an idea of a great domain name,
+&gt; wait for 3 days, at least, before buying it.
+
+It's that simple. However, be warned, there might be an uneasy feeling
+that someone is going to grab the domain before you. It will be haunting you
+on the back of your mind. You have to resist it and stick to the rule.
+Both your future self and your money will thank you.
+
+Also, you could be thinking &quot;*But, it's only $8.95*&quot;. Yet, **it's more**. Usually, a few times more.
+Let me tell you why. We, people, hate losing things that we own.
+Hence, once you own the domain and have put your credit card in, it is very very likely
+you will be paying for that name for a few years. Domain registrars
+are aware of that, too. That's why the registration price, on many platforms, is
+%30 - %50 less compared to the following up renewals.
+
+Here it is an example with GoDaddy: Reg $12; Renewal: $18 (+50%).
+
+{% include post_img.html src=&quot;3-day-rule/godaddy-dotcom-price-2020.png&quot; %}
+
+I'd say that you will keep your shiny new domain, on average, for 3 years at least.&lt;br/&gt;
+That makes ~$50!, and NOT $11.99.
+
+**.io** domains are the worst. First, they are heaps more expensive - $54 to reg it
+and $60 to renew =&gt; a $174 [idea ownership cost](/idea-ownership-cost). What is more,
+they seem short, trendy, and many of them are not registered yet. If you are building
+a tech product, you will be lured into buying one of those. Do yourself a favour and
+either try coming up with a **.com** name or at least apply the rule and don't rush.
+
+Now, back to the rule. At some point, after buying many domains and losing some money,
+I realised that my enthusiasm for the &quot;great&quot; idea I had the day before would
+start disappering more often than not. Only the &quot;good&quot; ideas stuck for longer than a few days.
+Then, I came with this rule of thumb for myself - never buy a domain name without waiting for
+at least 3 days after coming up with the idea of it. I've never had a single case when
+someone else would grab the domain before me. NEVER. The closest one was about 3 months afer I had the idea.
+The domain name was _vivanotes.com_ if you are curious. To be honest, it felt a bit bad,
+as I still had the idea written down in my notes. Yet, I will most probably never build
+that project and have saved hundreds or thousands of dollars along the way.
+
+**Why 3 days**? There is no scientific reason! It's easy to remember, it's longer than a weekend
+and it works for me.</content><author><name></name></author><category term="Ideas" /><summary type="html">I will share one of my little “secrets” that have saved me hundreds or thousands of dollars - “The 3 Day Domain Name Rule”.</summary></entry><entry><title type="html">“Why” questions and why to avoid them</title><link href="http://localhost:4001/why-questions/" rel="alternate" type="text/html" title="“Why” questions and why to avoid them" /><published>2020-09-09T07:11:00+10:00</published><updated>2020-09-09T07:11:00+10:00</updated><id>http://localhost:4001/why-questions</id><content type="html" xml:base="http://localhost:4001/why-questions/">_Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. **“Why” is always an accusation**, in any language._
 
 The advice of avoiding &quot;why questions&quot; is from the book [&quot;Never Split The Difference&quot;](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 by Chris Voss. If we think about it, how straight to the point is that?
@@ -13,7 +56,7 @@ the other person towards solving your problem. Such could be &quot;How&quot; or 
 _&quot;How can we solve this problem?&quot;_, _&quot;What can we do to improve the process?&quot;_, etc.
 Coming up with these non-why questions will lead to better results for both parties
 in most cases. Moreover, they may start flowing naturally to you once you remember
-to avoid &quot;why questions&quot; in negotiations as a rule of thumb.</content><author><name></name></author><category term="Wisdom" /><category term="Books" /><category term="Never Split The Difference" /><category term="Negotiations" /><category term="Advice" /><summary type="html">Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. “Why” is always an accusation, in any language.</summary></entry><entry><title type="html">Hello world</title><link href="http://localhost:4001/blog/hello-world" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-08T09:00:50+10:00</published><updated>2020-09-08T09:00:50+10:00</updated><id>http://localhost:4001/blog/hello-world</id><content type="html" xml:base="http://localhost:4001/blog/hello-world">I have decided to start blogging again. I used to blog relatively regularly about 10 years ago.
+to avoid &quot;why questions&quot; in negotiations as a rule of thumb.</content><author><name></name></author><category term="Wisdom" /><category term="Books" /><category term="Never Split The Difference" /><category term="Negotiations" /><category term="Advice" /><summary type="html">Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. “Why” is always an accusation, in any language.</summary></entry><entry><title type="html">Hello world</title><link href="http://localhost:4001/hello-world/" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-08T09:00:50+10:00</published><updated>2020-09-08T09:00:50+10:00</updated><id>http://localhost:4001/hello-world</id><content type="html" xml:base="http://localhost:4001/hello-world/">I have decided to start blogging again. I used to blog relatively regularly about 10 years ago.
 More or less, when I was actively developing svejo.net. Then I stopped.
 Blogging requires consistency, time, dedication and even more.
 However, you reap the benefits much later. I guess that’s the reason why many people stop blogging
