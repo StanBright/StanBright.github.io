@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-13T20:56:23+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Why I don’t do affiliate marketing on SaaSHub</title><link href="https://stanbright.com/no-affiliate-marketing/" rel="alternate" type="text/html" title="Why I don’t do affiliate marketing on SaaSHub" /><published>2020-09-13T19:10:00+10:00</published><updated>2020-09-13T19:10:00+10:00</updated><id>https://stanbright.com/no-affiliate-marketing</id><content type="html" xml:base="https://stanbright.com/no-affiliate-marketing/">&lt;p&gt;During the last year, I’ve been approached on a regular basis with requests to
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-14T23:40:23+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Marcus Aurelius on Pragmatism</title><link href="https://stanbright.com/marcus-aurelius-pragmatism/" rel="alternate" type="text/html" title="Marcus Aurelius on Pragmatism" /><published>2020-09-14T23:00:00+10:00</published><updated>2020-09-14T23:00:00+10:00</updated><id>https://stanbright.com/marcus-aurelius-pragmatism</id><content type="html" xml:base="https://stanbright.com/marcus-aurelius-pragmatism/">&lt;p&gt;I’ve been reading “&lt;a href=&quot;https://www.goodreads.com/book/show/29093292-the-daily-stoic&quot;&gt;The Daily Stoic&lt;/a&gt;”
+for the last 2 years. Almost every day. To me, that’s one of the best ways to
+jump-start my days, and it takes only a few minutes. I can easily say that
+it’s become a habit already.&lt;/p&gt;
+
+&lt;p&gt;Here they are three of my highlighted quotes by &lt;a href=&quot;https://en.wikipedia.org/wiki/Marcus_Aurelius&quot;&gt;Marcus Aurelius&lt;/a&gt; on Pragmatism.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Start with where the world is&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Do now what nature demands of you. Get right to it if that’s in your power.
+Don’t look around to see if people will know about it. Don’t await the perfection
+of Plato’s &lt;em&gt;Republic&lt;/em&gt;, but be satisfied with even the smallest step forward.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Anything can be an advantage&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Just as nature of rational things has given to each person their rational powers,
+so it also gives us this power - just as nature turns to its own purpose any obstacle
+or any opposition, so any rational person can convert any obstacle into the raw
+material for their own purpose.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Don’t sweat the small stuff&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;It is essential for you to remember that the attention you give to any action
+should be in due proportion to its worth, for then you won’t tire and give up,
+if you aren’t busying yourself with lesser things beyond what should be allowed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apart from being exceptionally wise and one of the most quoted stoics, Marcus Aurelius
+was amongst the longest-reigning Roman emperors (19 years). As a perspective,
+&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_Roman_emperors&quot;&gt;many emperors&lt;/a&gt;
+lasted between a few months and a few years.&lt;/p&gt;</content><author><name></name></author><category term="Quotes" /><summary type="html">I’ve been reading “The Daily Stoic” for the last 2 years. Almost every day. To me, that’s one of the best ways to jump-start my days, and it takes only a few minutes. I can easily say that it’s become a habit already.</summary></entry><entry><title type="html">Why I don’t do affiliate marketing on SaaSHub</title><link href="https://stanbright.com/no-affiliate-marketing/" rel="alternate" type="text/html" title="Why I don’t do affiliate marketing on SaaSHub" /><published>2020-09-13T19:10:00+10:00</published><updated>2020-09-13T19:10:00+10:00</updated><id>https://stanbright.com/no-affiliate-marketing</id><content type="html" xml:base="https://stanbright.com/no-affiliate-marketing/">&lt;p&gt;During the last year, I’ve been approached on a regular basis with requests to
 take part in various affiliate and referral programs. To be honest, some
 of them seemed decent and applicable to SaaSHub. For example, a VPN service.
 If we take the “&lt;a href=&quot;https://www.saashub.com/best-vpn-software&quot;&gt;Best VPN Software&lt;/a&gt;” page,
