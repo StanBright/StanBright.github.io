@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-16T07:26:32+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">It always takes more time</title><link href="https://stanbright.com/longer/" rel="alternate" type="text/html" title="It always takes more time" /><published>2020-09-15T22:47:00+10:00</published><updated>2020-09-15T22:47:00+10:00</updated><id>https://stanbright.com/longer</id><content type="html" xml:base="https://stanbright.com/longer/">&lt;p&gt;&lt;strong&gt;It always takes more time&lt;/strong&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-18T11:43:42+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Domain Name Search</title><link href="https://stanbright.com/domain-name-search/" rel="alternate" type="text/html" title="Domain Name Search" /><published>2020-09-18T00:00:00+10:00</published><updated>2020-09-18T00:00:00+10:00</updated><id>https://stanbright.com/domain-name-search</id><content type="html" xml:base="https://stanbright.com/domain-name-search/">&lt;div class=&quot;video-container&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sP50FsAFJls&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Yup, domain names are very important for every business, project or idea
+you want to spread on the Internet. Many people spend a log of energy
+on finding the perfect name only to find out that the relevant “.com” domain has been taken.
+It is not a surprise South Park has an episode on that.&lt;/p&gt;
+
+&lt;p&gt;There are three major ways to perform a &lt;strong&gt;domain name search&lt;/strong&gt; and see if
+the domain you are looking for is FREE.&lt;/p&gt;
+
+&lt;h2 id=&quot;first---check-the-domain-availability-directly-on-your-domain-name-registrar&quot;&gt;First - check the domain availability directly on your domain name registrar&lt;/h2&gt;
+
+&lt;p&gt;This is the go-to method for most people. It is the most direct and works in general.
+Why “in general”? Because you should trust your &lt;a href=&quot;https://www.saashub.com/best-domain-name-registrar-software&quot;&gt;domain name registrar&lt;/a&gt;.
+It is not easy to prove; however, it is believed that some registrars are involved
+in &lt;a href=&quot;https://en.wikipedia.org/wiki/Cybersquatting&quot;&gt;Cybersquatting&lt;/a&gt;. You can read
+this relevant thread on Hacker News - &lt;a href=&quot;https://news.ycombinator.com/item?id=24506303&quot;&gt;Tell HN: Never search for domains on Godaddy.com&lt;/a&gt;.
+What is happening is that you search for your shiny new domain name, it is FREE,
+but you decide to postpone buying it immediately.
+However, a few days later, when you have mustered up the enthusiasm to buy the name,
+you find out that your name is already taken. Believe me, it’s a very saddening feeling.&lt;/p&gt;
+
+&lt;p&gt;The tricky part is that by using their search, registrars KNOW which
+domain names you are interested in as well as the trendy names
+that people, on the whole, are looking for. So, they have the data and means to
+buy those domains and then try reselling them for more (Cybersquatting).
+Of course, if they are caught doing that, it could be detrimental to their business.
+That’s why I still believe that most registrars are not doing it.
+Yet you never know.&lt;/p&gt;
+
+&lt;h2 id=&quot;second---check-availability-through-a-third-party-service&quot;&gt;Second - check availability through a third-party service&lt;/h2&gt;
+
+&lt;p&gt;This is one of the options I’ve been using from time to time. These are utility services
+that make money when they refer you to the domain name registrars. For example,
+&lt;a href=&quot;https://www.namebounce.com/&quot;&gt;NameBounce&lt;/a&gt; and its &lt;a href=&quot;https://www.saashub.com/namebounce-alternatives&quot;&gt;alternatives&lt;/a&gt;
+can generate a few dozens of free domain names based on a keyword.
+In my opinion, this is a bit safer as long as you use a generic keyword.
+In most cases the base “keyword.com” will be taken but you will be given a list of
+dozens of other free options (e.g. Keyword&lt;b&gt;Life&lt;/b&gt;.com &lt;b&gt;Max&lt;/b&gt;Keyword.com, etc)
+So, whoever knows that you have interest in &lt;em&gt;keyword.com&lt;/em&gt;, they can’t know which of
+the other hundred options you’ve decided to use. Moreover, it will be very expensive
+to grab all of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;third---go-bare-metal-and-ask-the-official-whois-database&quot;&gt;Third - go “bare metal” and ask the official &lt;a href=&quot;https://en.wikipedia.org/wiki/WHOIS&quot;&gt;WHOIS&lt;/a&gt; database.&lt;/h2&gt;
+
+&lt;p&gt;This is not the most straightforward option, but it is &lt;strong&gt;the most secure way to perform
+a &lt;em&gt;domain name search&lt;/em&gt;&lt;/strong&gt; and check if a name is available. What you have to do is
+opening a terminal typing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;whois my-domain-name.com&lt;/code&gt; (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;whois -v my-domain-name.com&lt;/code&gt; if using Windows)
+and reading/interpreting the results.&lt;/p&gt;
+
+&lt;p&gt;In the response from the server, you can find out who and when registered the name
+and if it is free. There are two inconveniences following this approach. You
+have to read all the data (a few screens) that was returned and learn to read it.
+That may take some time if you don’t have experience. If the name is free,
+somewhere at the end of the whois-response,
+there will be a line like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;No match for domain &quot;SAASHUB123.COM&quot;.&lt;/code&gt;.
+Then, when you decide, just go and register the domain.&lt;/p&gt;
+
+&lt;p&gt;As this third option is my preferred approach for checking names, I’ve been using
+a simple bash script that automates the boring parts. You can copy-paste it
+from this Github gist - &lt;a href=&quot;https://gist.github.com/StanBright/b236675e272ace1b385a9a0f2d543a1f&quot;&gt;domain_check.sh&lt;/a&gt;.
+To set it up, copy that script to your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/bin&lt;/code&gt; directory, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;chmod 755 ~/domain-check.sh&lt;/code&gt; and list
+all extensions (separated by a space) in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DOMAINS=( '.com' '.io' )&lt;/code&gt; section.&lt;/p&gt;
+
+&lt;p&gt;Then checking for an available name is as simple as opening your terminal, and
+you don’t have to worry that someone will register the same name tomorrow.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;stan@StansMacBook15:~$ domain_check.sh saashub123
+saashub123.com - available
+saashub123.io - available
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+And remember that you should follow “&lt;a href=&quot;/3-day-rule&quot;&gt;The 3 day domain name rule&lt;/a&gt;”
+before buying any new names.&lt;/p&gt;</content><author><name></name></author><category term="Tech" /><summary type="html"></summary></entry><entry><title type="html">It always takes more time</title><link href="https://stanbright.com/longer/" rel="alternate" type="text/html" title="It always takes more time" /><published>2020-09-15T22:47:00+10:00</published><updated>2020-09-15T22:47:00+10:00</updated><id>https://stanbright.com/longer</id><content type="html" xml:base="https://stanbright.com/longer/">&lt;p&gt;&lt;strong&gt;It always takes more time&lt;/strong&gt;&lt;br /&gt;
 …to lose weight&lt;br /&gt;
 …to gain weight&lt;br /&gt;
 …to build good habits&lt;br /&gt;
@@ -12,9 +87,9 @@
 And account that everything will take longer than we want it. Most of the time.&lt;/p&gt;
 
 &lt;p&gt;Two months ago, I started building a “simple” job board - &lt;a href=&quot;https://99remotejobs.com&quot;&gt;99remotejobs.com&lt;/a&gt;.
-I thought it would take me a week. It took me a month!&lt;/p&gt;
+I thought it would take me a week. It took a month!&lt;/p&gt;
 
-&lt;p&gt;This short post was supposed to take me only 15 minutes, of course, yet it took me 40.&lt;/p&gt;
+&lt;p&gt;This short post was supposed to take me only 15 minutes, of course, yet it took 40.&lt;/p&gt;
 
 &lt;p&gt;When I started &lt;a href=&quot;https://www.saashub.com&quot;&gt;SaaSHub&lt;/a&gt; I though AND CALCULATED that
 if the project had 10,000 visitors a day, I would be all set - making enough
@@ -209,20 +284,22 @@ the other person towards solving your problem. Such could be “How” or “Wha
 &lt;em&gt;“How can we solve this problem?”&lt;/em&gt;, &lt;em&gt;“What can we do to improve the process?”&lt;/em&gt;, etc.
 Coming up with these non-why questions will lead to better results for both parties
 in most cases. Moreover, they may start flowing naturally to you once you remember
-to avoid “why questions” in negotiations as a rule of thumb.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><category term="Books" /><category term="Never Split The Difference" /><category term="Negotiations" /><category term="Advice" /><summary type="html">Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. “Why” is always an accusation, in any language.</summary></entry><entry><title type="html">Hello world</title><link href="https://stanbright.com/hello-world/" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-08T09:00:50+10:00</published><updated>2020-09-08T09:00:50+10:00</updated><id>https://stanbright.com/hello-world</id><content type="html" xml:base="https://stanbright.com/hello-world/">&lt;p&gt;I have decided to start blogging again. I used to blog relatively regularly about 10 years ago.
-More or less, when I was actively developing svejo.net. Then I stopped.
+to avoid “why questions” in negotiations as a rule of thumb.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><category term="Books" /><category term="Never Split The Difference" /><category term="Negotiations" /><category term="Advice" /><summary type="html">Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. “Why” is always an accusation, in any language.</summary></entry><entry><title type="html">Hello world</title><link href="https://stanbright.com/hello-world/" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-08T09:00:50+10:00</published><updated>2020-09-08T09:00:50+10:00</updated><id>https://stanbright.com/hello-world</id><content type="html" xml:base="https://stanbright.com/hello-world/">&lt;p&gt;I have decided to start blogging again. I used to blog rather regularly about 10 years ago,
+more or less, when I was actively developing my first startup &lt;a href=&quot;/projects/svejo&quot;&gt;svejo.net&lt;/a&gt;.
+Then I stopped.
 Blogging requires consistency, time, dedication and even more.
 However, you reap the benefits much later. I guess that’s the reason why many people stop blogging
 (apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc.).&lt;/p&gt;
 
 &lt;p&gt;Yet, I’ve been observing a slight renaissance in blogging in the last year or two.
-That and the idea that one improves his thinking by writing, made me wanna start blogging again.&lt;/p&gt;
+That, plus the idea that one develops his thinking, reasoing and ideas by writing,
+made me want to start blogging again. Perhaps, some ideas wanted to come out.&lt;/p&gt;
 
 &lt;p&gt;I have also had the idea of building an RSS reader.
 It has been boiling at the back of my head for almost a year.
-I even bought a domain a few months ago. I have the mantra that one should use
-what he is building if he wants to make something useful.
+I even bought a domain a few months ago. I have the (“software engineer”) mantra
+that one should use what they are building if they want to make something useful.
 I think that taking an active part in the blogging community would be the best
 way to experience the genuine needs of an RSS reader user.&lt;/p&gt;
 
-&lt;p&gt;So, let’s see what happens.&lt;/p&gt;</content><author><name></name></author><category term="Meta" /><summary type="html">I have decided to start blogging again. I used to blog relatively regularly about 10 years ago. More or less, when I was actively developing svejo.net. Then I stopped. Blogging requires consistency, time, dedication and even more. However, you reap the benefits much later. I guess that’s the reason why many people stop blogging (apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc.).</summary></entry></feed>
+&lt;p&gt;So, let’s see what happens.&lt;/p&gt;</content><author><name></name></author><category term="Meta" /><summary type="html">I have decided to start blogging again. I used to blog rather regularly about 10 years ago, more or less, when I was actively developing my first startup svejo.net. Then I stopped. Blogging requires consistency, time, dedication and even more. However, you reap the benefits much later. I guess that’s the reason why many people stop blogging (apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc.).</summary></entry></feed>
