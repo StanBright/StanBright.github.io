@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-18T14:29:22+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Domain Name Search</title><link href="https://stanbright.com/domain-name-search/" rel="alternate" type="text/html" title="Domain Name Search" /><published>2020-09-18T00:00:00+10:00</published><updated>2020-09-18T00:00:00+10:00</updated><id>https://stanbright.com/domain-name-search</id><content type="html" xml:base="https://stanbright.com/domain-name-search/">&lt;div class=&quot;video-container&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-24T07:59:50+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Time spent programming is often time well spent</title><link href="https://stanbright.com/time-spent-programming/" rel="alternate" type="text/html" title="Time spent programming is often time well spent" /><published>2020-09-24T00:00:00+10:00</published><updated>2020-09-24T00:00:00+10:00</updated><id>https://stanbright.com/time-spent-programming</id><content type="html" xml:base="https://stanbright.com/time-spent-programming/">&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;I concur so strongly not only because he writes about RSS, which I’m on record as supporting and using. I enjoy rolling my own simple software in almost any domain. Simple has a lot of advantages. Under my control has a lot of advantages. But the biggest advantage echoes what Dr. Drang says: Programming is often more fun than the alternative uses of my time.&lt;/p&gt;
+
+  &lt;p&gt;I program because I like to, and because I can.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2020-09.html#e2020-09-22T16_09_19.htm&quot;&gt;Eugene Wallingford&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I read the above this morning and just wanted to chime in.
+It resonates so much with me.&lt;/p&gt;
+
+&lt;p&gt;I think that there are three main reasons why time spent programming is well spent
+and joyful (when you are not dealing with “bugs”).&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+&lt;p&gt;I have an endless desire to learn, and I genuinely believe that doing is the best
+way to learn. I’ve started many toy projects along the years just for the sake of learning.
+Two quick examples: long ago, I built the &lt;a href=&quot;http://emojihomepage.com/&quot;&gt;EmojiHomepage&lt;/a&gt; to learn Vue.js;
+yesterday, I released &lt;a href=&quot;https://alertcamp.com/live&quot;&gt;Alertcamp Live&lt;/a&gt; for the sake of
+learning “Phoenix LiveView” and practice my &lt;a href=&quot;http://erlang.org/doc/system_architecture_intro/sys_arch_intro.html&quot;&gt;OTP&lt;/a&gt;
+knowledge.&lt;/p&gt;
+
+&lt;h2 id=&quot;control&quot;&gt;Control&lt;/h2&gt;
+&lt;p&gt;Building things yourself puts you in control. And we, people, love being in control.
+You don’t like something, you need some quirky additional feature, or
+you think something else will work better - it doesn’t matter, you are in
+control, and you can do whatever you want. Sure, there might be some rough edges,
+yet the &lt;a href=&quot;https://en.wikipedia.org/wiki/IKEA_effect&quot;&gt;IKEA Effect&lt;/a&gt; will compensate for that.&lt;/p&gt;
+
+&lt;h2 id=&quot;creativity&quot;&gt;Creativity&lt;/h2&gt;
+&lt;p&gt;I believe that creating anything is an innate human desire and practising it always
+leads to joyful experiences. That includes anything - complex systems, simple scripts,
+an article posted online, a wooden box. I’m sure that any craftsmanship
+will bring you more joy than many other activities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here they are some excerpts from the relevant Hacker News
+&lt;a href=&quot;https://news.ycombinator.com/item?id=24564835&quot;&gt;discussion&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I’ve worked on a lot of personal projects over the years that were never finished or were quickly abandoned. I used to feel bad about this, feeling like I had wasted my time. But then I realized that I learned a ton by doing all of this work.&lt;/em&gt;
+&lt;strong&gt;- larrywright&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- So, tell me, how did you land a job on Google?&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;- Yeah, I was trying to redo my website…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I spent countless hours on my side project Video Hub App.&lt;/em&gt;
+&lt;em&gt;I’ve learned a great deal, and it’s immensely satisfying to work on. I’ve explored face recognition and server capabilities (learning a lot and having a good time).&lt;/em&gt;
+&lt;strong&gt;- yboris&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;An old colleague tried to convince me that I shouldn’t write my own job queue last night because “it’s all handled in the cloud”. It’s things like this that make me a better programmer whilst also allowing me to run software that does exactly what I want.&lt;/em&gt;
+&lt;strong&gt;- arbol&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html&quot;&gt;The Code It Yourself Manifesto&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;p.s. I will be building an RSS reader/platform in the coming weeks 🙈&lt;/p&gt;</content><author><name></name></author><category term="Tech" /><summary type="html">Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services. I concur so strongly not only because he writes about RSS, which I’m on record as supporting and using. I enjoy rolling my own simple software in almost any domain. Simple has a lot of advantages. Under my control has a lot of advantages. But the biggest advantage echoes what Dr. Drang says: Programming is often more fun than the alternative uses of my time. I program because I like to, and because I can. Eugene Wallingford</summary></entry><entry><title type="html">Domain Name Search</title><link href="https://stanbright.com/domain-name-search/" rel="alternate" type="text/html" title="Domain Name Search" /><published>2020-09-18T00:00:00+10:00</published><updated>2020-09-18T00:00:00+10:00</updated><id>https://stanbright.com/domain-name-search</id><content type="html" xml:base="https://stanbright.com/domain-name-search/">&lt;div class=&quot;video-container&quot;&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sP50FsAFJls&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
