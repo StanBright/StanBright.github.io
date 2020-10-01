@@ -3528,4 +3528,8 @@ nav.topnav .links a:not(:last-child) { margin-right: 32px; }
 
 .project-hero .logo { max-height: 96px; }
 
+.cover-image { text-align: center; }
+
+.cover-image img { max-height: 350px; }
+
 /*# sourceMappingURL=styles.css.map */

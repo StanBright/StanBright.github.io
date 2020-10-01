@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-09-24T07:59:50+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Time spent programming is often time well spent</title><link href="https://stanbright.com/time-spent-programming/" rel="alternate" type="text/html" title="Time spent programming is often time well spent" /><published>2020-09-24T00:00:00+10:00</published><updated>2020-09-24T00:00:00+10:00</updated><id>https://stanbright.com/time-spent-programming</id><content type="html" xml:base="https://stanbright.com/time-spent-programming/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2020-10-01T10:20:59+10:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Steptember</title><link href="https://stanbright.com/steptember/" rel="alternate" type="text/html" title="Steptember" /><published>2020-10-01T00:00:00+10:00</published><updated>2020-10-01T00:00:00+10:00</updated><id>https://stanbright.com/steptember</id><content type="html" xml:base="https://stanbright.com/steptember/">&lt;p&gt;Just a quick update on finishing the &lt;a href=&quot;https://www.steptember.org.au/&quot;&gt;Steptember&lt;/a&gt; social challenge/cause successfully. The challenge was to score 10,000 steps per day in September.
+You form teams of four, keep one-another accountable, compete with others
+and along the way raise some money for charity.&lt;/p&gt;
+
+&lt;p&gt;To me there were three big benefits of taking part of it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Health&lt;/strong&gt;. Undeniably, walking more will keep you in better shape than sitting in front of the computer all day. Taking part of such a challenge forces you to get out and move.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Charrity&lt;/strong&gt;. It always makes you feel good when you do something for others. It’s one of the best win-win things people can do. First, you help someone and then - you feel better because of that.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social and more offline time&lt;/strong&gt;. I spent some extra time with friends and had some extra walks in nature, away from the screen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;To summarize&lt;/strong&gt;: I did 10,000+ steps every day in September with an average of 12,683 steps/day!
+That’s more than double my usual daily average of 5,800.
+I’m sure this has positively contributed to my health and wellbeing.
+Also, our mighty team of four -
+“Lorikeets” (&lt;a href=&quot;https://www.instagram.com/kristina.spaghettina/&quot;&gt;kristina.spaghettina&lt;/a&gt;,
+&lt;a href=&quot;https://www.instagram.com/stoyanova.kristina/&quot;&gt;stoyanova.kristina&lt;/a&gt;,
+&lt;a href=&quot;https://www.instagram.com/xpucto89/&quot;&gt;xpucto89&lt;/a&gt; and I) was invited to join
+&lt;a href=&quot;https://www.canva.com/&quot;&gt;Canva&lt;/a&gt;’s organization,
+and we were #1 🎉 in total team steps (in a company of close to 1000 employees)!&lt;/p&gt;</content><author><name></name></author><category term="Life" /><summary type="html">Just a quick update on finishing the Steptember social challenge/cause successfully. The challenge was to score 10,000 steps per day in September. You form teams of four, keep one-another accountable, compete with others and along the way raise some money for charity.</summary></entry><entry><title type="html">Time spent programming is often time well spent</title><link href="https://stanbright.com/time-spent-programming/" rel="alternate" type="text/html" title="Time spent programming is often time well spent" /><published>2020-09-24T00:00:00+10:00</published><updated>2020-09-24T00:00:00+10:00</updated><id>https://stanbright.com/time-spent-programming</id><content type="html" xml:base="https://stanbright.com/time-spent-programming/">&lt;blockquote&gt;
   &lt;blockquote&gt;
     &lt;p&gt;Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services.&lt;/p&gt;
   &lt;/blockquote&gt;
@@ -345,22 +365,4 @@ the other person towards solving your problem. Such could be “How” or “Wha
 &lt;em&gt;“How can we solve this problem?”&lt;/em&gt;, &lt;em&gt;“What can we do to improve the process?”&lt;/em&gt;, etc.
 Coming up with these non-why questions will lead to better results for both parties
 in most cases. Moreover, they may start flowing naturally to you once you remember
-to avoid “why questions” in negotiations as a rule of thumb.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><category term="Books" /><category term="Never Split The Difference" /><category term="Negotiations" /><category term="Advice" /><summary type="html">Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. “Why” is always an accusation, in any language.</summary></entry><entry><title type="html">Hello world</title><link href="https://stanbright.com/hello-world/" rel="alternate" type="text/html" title="Hello world" /><published>2020-09-08T09:00:50+10:00</published><updated>2020-09-08T09:00:50+10:00</updated><id>https://stanbright.com/hello-world</id><content type="html" xml:base="https://stanbright.com/hello-world/">&lt;p&gt;I have decided to start blogging again. I used to blog rather regularly about 10 years ago,
-more or less, when I was actively developing my first startup &lt;a href=&quot;/projects/svejo&quot;&gt;svejo.net&lt;/a&gt;.
-Then I stopped.
-Blogging requires consistency, time, dedication and even more.
-However, you reap the benefits much later. I guess that’s the reason why many people stop blogging
-(apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc.).&lt;/p&gt;
-
-&lt;p&gt;Yet, I’ve been observing a slight renaissance in blogging in the last year or two.
-That, plus the idea that one develops his thinking, reasoing and ideas by writing,
-made me want to start blogging again. Perhaps, some ideas wanted to come out.&lt;/p&gt;
-
-&lt;p&gt;I have also had the idea of building an RSS reader.
-It has been boiling at the back of my head for almost a year.
-I even bought a domain a few months ago. I have the (“software engineer”) mantra
-that one should use what they are building if they want to make something useful.
-I think that taking an active part in the blogging community would be the best
-way to experience the genuine needs of an RSS reader user.&lt;/p&gt;
-
-&lt;p&gt;So, let’s see what happens.&lt;/p&gt;</content><author><name></name></author><category term="Meta" /><summary type="html">I have decided to start blogging again. I used to blog rather regularly about 10 years ago, more or less, when I was actively developing my first startup svejo.net. Then I stopped. Blogging requires consistency, time, dedication and even more. However, you reap the benefits much later. I guess that’s the reason why many people stop blogging (apart from moving to walled gardens like Medium, Twitter, LinkedIn, FB, etc.).</summary></entry></feed>
+to avoid “why questions” in negotiations as a rule of thumb.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><category term="Books" /><category term="Never Split The Difference" /><category term="Negotiations" /><category term="Advice" /><summary type="html">Don’t ask questions that start with “Why” unless you want your counterpart to defend a goal that serves you. “Why” is always an accusation, in any language.</summary></entry></feed>
