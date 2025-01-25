@@ -1,322 +1,322 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2022-11-07T12:00:46+11:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">About.me … and failing to pivot</title><link href="https://stanbright.com/about.me/" rel="alternate" type="text/html" title="About.me … and failing to pivot" /><published>2021-11-25T12:31:00+11:00</published><updated>2021-11-25T12:31:00+11:00</updated><id>https://stanbright.com/about.me</id><content type="html" xml:base="https://stanbright.com/about.me/">&lt;p&gt;Some context - &lt;strong&gt;about.me&lt;/strong&gt; was one of the first single-page personal websites.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2025-01-25T12:06:01+11:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">About.me … and failing to pivot</title><link href="https://stanbright.com/about.me/" rel="alternate" type="text/html" title="About.me … and failing to pivot" /><published>2021-11-25T12:31:00+11:00</published><updated>2021-11-25T12:31:00+11:00</updated><id>https://stanbright.com/about.me</id><content type="html" xml:base="https://stanbright.com/about.me/"><![CDATA[<p>Some context - <strong>about.me</strong> was one of the first single-page personal websites.
 All it offered was a simple online presence for people. It was big when it was released in 2010 -
 a lot of publicity and lots of famous people pushing their personal brands online for the first time.
 It was one of those sweet ideas where you didn’t need much tech. The mere ownership
-of the brand “about.me” was enough. I’d say it’s difficult to find a more suitable name for personal online presence (apart from owning your own name).&lt;/p&gt;
+of the brand “about.me” was enough. I’d say it’s difficult to find a more suitable name for personal online presence (apart from owning your own name).</p>
 
-&lt;p&gt;And then - nothing. That’s OK. Sometimes you don’t need to make changes.
-For example, &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt; is as good as it was 15 years ago.
+<p>And then - nothing. That’s OK. Sometimes you don’t need to make changes.
+For example, <a href="https://news.ycombinator.com/">Hacker News</a> is as good as it was 15 years ago.
 If they don’t make any changes, I’d guess it will still be OK 10 years from now.
-&lt;em&gt;However&lt;/em&gt;, with the rise of online influencers and their presence on multiple platforms,
+<em>However</em>, with the rise of online influencers and their presence on multiple platforms,
 there was a need for something even simpler than about.me - a page where one could
 list the links to all other accounts online.
-That’s how services like &lt;a href=&quot;https://www.saashub.com/linktree-alternatives&quot;&gt;&lt;strong&gt;linktr.ee&lt;/strong&gt; and their competitors&lt;/a&gt; were born. All they had to offer was an easy way to create a mobile-friendly page with a list of links or buttons. Nothing more. No fancy widgets or anything.&lt;/p&gt;
+That’s how services like <a href="https://www.saashub.com/linktree-alternatives"><strong>linktr.ee</strong> and their competitors</a> were born. All they had to offer was an easy way to create a mobile-friendly page with a list of links or buttons. Nothing more. No fancy widgets or anything.</p>
 
-&lt;p&gt;They could have easily won that market against Linktree.
-For example, &lt;strong&gt;about.me/StanBright&lt;/strong&gt; looks better and is easier to communicate than &lt;strong&gt;linktr.ee/StanBright&lt;/strong&gt;.
+<p>They could have easily won that market against Linktree.
+For example, <strong>about.me/StanBright</strong> looks better and is easier to communicate than <strong>linktr.ee/StanBright</strong>.
 Yet, they didn’t do it. About.me was launched six years before Linktr.ee.
 They had the time advantage, they had a working product, they had a better brand name, yet
-they didn’t make a move. They failed to pivot.&lt;/p&gt;
+they didn’t make a move. They failed to pivot.</p>
 
-&lt;p&gt;What’s the missed opportunity? According to Similarweb, about.me has ~1.3M monthly visits as of today,
-and Linktree … wait for it … it has ~132M, and it’s growing!&lt;/p&gt;
+<p>What’s the missed opportunity? According to Similarweb, about.me has ~1.3M monthly visits as of today,
+and Linktree … wait for it … it has ~132M, and it’s growing!</p>
 
-&lt;p&gt;Moral of the story - a simple pivot, sometimes, costing you almost nothing, could result to a 100x growth of your product.&lt;/p&gt;</content><author><name></name></author><category term="Thoughts" /><category term="Thoughts" /><category term="Startups" /><category term="Tech" /><summary type="html">Some context - about.me was one of the first single-page personal websites. All it offered was a simple online presence for people. It was big when it was released in 2010 - a lot of publicity and lots of famous people pushing their personal brands online for the first time. It was one of those sweet ideas where you didn’t need much tech. The mere ownership of the brand “about.me” was enough. I’d say it’s difficult to find a more suitable name for personal online presence (apart from owning your own name).</summary></entry><entry><title type="html">Loss of focus</title><link href="https://stanbright.com/loss-of-focus/" rel="alternate" type="text/html" title="Loss of focus" /><published>2021-02-22T10:26:00+11:00</published><updated>2021-02-22T10:26:00+11:00</updated><id>https://stanbright.com/loss-of-focus</id><content type="html" xml:base="https://stanbright.com/loss-of-focus/">&lt;p&gt;&lt;em&gt;Loss of focus&lt;/em&gt;, even for a moment, is always detrimental to what we are doing. That is quite obvious at pro-level sports disciplines - the moment you lose focus, your opponent takes advantage and scores.
+<p>Moral of the story - a simple pivot, sometimes, costing you almost nothing, could result to a 100x growth of your product.</p>]]></content><author><name></name></author><category term="Thoughts" /><category term="Thoughts" /><category term="Startups" /><category term="Tech" /><summary type="html"><![CDATA[Some context - about.me was one of the first single-page personal websites. All it offered was a simple online presence for people. It was big when it was released in 2010 - a lot of publicity and lots of famous people pushing their personal brands online for the first time. It was one of those sweet ideas where you didn’t need much tech. The mere ownership of the brand “about.me” was enough. I’d say it’s difficult to find a more suitable name for personal online presence (apart from owning your own name).]]></summary></entry><entry><title type="html">Loss of focus</title><link href="https://stanbright.com/loss-of-focus/" rel="alternate" type="text/html" title="Loss of focus" /><published>2021-02-22T10:26:00+11:00</published><updated>2021-02-22T10:26:00+11:00</updated><id>https://stanbright.com/loss-of-focus</id><content type="html" xml:base="https://stanbright.com/loss-of-focus/"><![CDATA[<p><em>Loss of focus</em>, even for a moment, is always detrimental to what we are doing. That is quite obvious at pro-level sports disciplines - the moment you lose focus, your opponent takes advantage and scores.
 In the end of the day, if you want to be a “pro” in any discipline, you need to learn how to sustain your focus for long periods of time.
 Always being present and in the now. I came to this realisation while watching the Australian Open finals this year.
 I guess that’s also amongst the reasons why the crowd could play a vital role in most games.
-It could be both a distracting and a “get yourself together” force for players on the field.&lt;/p&gt;
+It could be both a distracting and a “get yourself together” force for players on the field.</p>
 
-&lt;p&gt;&lt;strong&gt;Unfortunately&lt;/strong&gt;, that seems to be valid for everything we do in our lives and everything we work on.
+<p><strong>Unfortunately</strong>, that seems to be valid for everything we do in our lives and everything we work on.
 Why “unfortunately”? Well, as it isn’t obvious.
 We don’t always have that opponent waiting for our mistake to score. So we lose track.
 And we lose focus very easily without any apparent repercussions.
 Then, we still want to be pro and play the majors, and we wonder why that isn’t happening. It also happens that we blame external circumstances. At the same time,
-the simple truth is that we just can’t sustain our focus at a pro-level.&lt;/p&gt;
+the simple truth is that we just can’t sustain our focus at a pro-level.</p>
 
-&lt;p&gt;&lt;strong&gt;Fortunately&lt;/strong&gt;, that is something that we have control over, and as long as we are willing to develop that skill - we can play the majors. In any discipline.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><category term="Wisdom" /><category term="Focus" /><category term="Thoughts" /><summary type="html">Loss of focus, even for a moment, is always detrimental to what we are doing. That is quite obvious at pro-level sports disciplines - the moment you lose focus, your opponent takes advantage and scores. In the end of the day, if you want to be a “pro” in any discipline, you need to learn how to sustain your focus for long periods of time. Always being present and in the now. I came to this realisation while watching the Australian Open finals this year. I guess that’s also amongst the reasons why the crowd could play a vital role in most games. It could be both a distracting and a “get yourself together” force for players on the field.</summary></entry><entry><title type="html">Steptember</title><link href="https://stanbright.com/steptember/" rel="alternate" type="text/html" title="Steptember" /><published>2020-10-01T00:00:00+10:00</published><updated>2020-10-01T00:00:00+10:00</updated><id>https://stanbright.com/steptember</id><content type="html" xml:base="https://stanbright.com/steptember/">&lt;p&gt;Just a quick update on finishing the &lt;a href=&quot;https://www.steptember.org.au/&quot;&gt;Steptember&lt;/a&gt; social challenge/cause successfully. The challenge was to score 10,000 steps per day in September.
+<p><strong>Fortunately</strong>, that is something that we have control over, and as long as we are willing to develop that skill - we can play the majors. In any discipline.</p>]]></content><author><name></name></author><category term="Wisdom" /><category term="Wisdom" /><category term="Focus" /><category term="Thoughts" /><summary type="html"><![CDATA[Loss of focus, even for a moment, is always detrimental to what we are doing. That is quite obvious at pro-level sports disciplines - the moment you lose focus, your opponent takes advantage and scores. In the end of the day, if you want to be a “pro” in any discipline, you need to learn how to sustain your focus for long periods of time. Always being present and in the now. I came to this realisation while watching the Australian Open finals this year. I guess that’s also amongst the reasons why the crowd could play a vital role in most games. It could be both a distracting and a “get yourself together” force for players on the field.]]></summary></entry><entry><title type="html">Steptember</title><link href="https://stanbright.com/steptember/" rel="alternate" type="text/html" title="Steptember" /><published>2020-10-01T00:00:00+10:00</published><updated>2020-10-01T00:00:00+10:00</updated><id>https://stanbright.com/steptember</id><content type="html" xml:base="https://stanbright.com/steptember/"><![CDATA[<p>Just a quick update on finishing the <a href="https://www.steptember.org.au/">Steptember</a> social challenge/cause successfully. The challenge was to score 10,000 steps per day in September.
 You form teams of four, keep one-another accountable, compete with others
-and along the way, raise some money for charity.&lt;/p&gt;
+and along the way, raise some money for charity.</p>
 
-&lt;p&gt;To me, there were three big benefits of taking part in it:&lt;/p&gt;
+<p>To me, there were three big benefits of taking part in it:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Health&lt;/strong&gt;. Undeniably, walking more will keep you in better shape than sitting in front of the computer all day. Taking part in such a challenge forces you to get out and move.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Charity&lt;/strong&gt;. It always makes you feel good when you do something for others. It’s one of the best win-win things people can do. First, you help someone and then - you feel better because of that.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Social and more offline time&lt;/strong&gt;. I spent some extra time with friends and had some extra walks in nature, away from the screen.&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><strong>Health</strong>. Undeniably, walking more will keep you in better shape than sitting in front of the computer all day. Taking part in such a challenge forces you to get out and move.</li>
+  <li><strong>Charity</strong>. It always makes you feel good when you do something for others. It’s one of the best win-win things people can do. First, you help someone and then - you feel better because of that.</li>
+  <li><strong>Social and more offline time</strong>. I spent some extra time with friends and had some extra walks in nature, away from the screen.</li>
+</ul>
 
-&lt;p&gt;&lt;strong&gt;To summarize&lt;/strong&gt;: I did 10,000+ steps every day in September with an average of 12,683 steps/day!
+<p><strong>To summarize</strong>: I did 10,000+ steps every day in September with an average of 12,683 steps/day!
 That’s more than double my usual daily average of 5,800.
 I’m sure this has positively contributed to my health and wellbeing.
 Also, our mighty team of four -
-“Lorikeets” (&lt;a href=&quot;https://www.instagram.com/kristina.spaghettina/&quot;&gt;kristina.spaghettina&lt;/a&gt;,
-&lt;a href=&quot;https://www.instagram.com/stoyanova.kristina/&quot;&gt;stoyanova.kristina&lt;/a&gt;,
-&lt;a href=&quot;https://www.instagram.com/xpucto89/&quot;&gt;xpucto89&lt;/a&gt; and I) was invited to join
-&lt;a href=&quot;https://www.canva.com/&quot;&gt;Canva&lt;/a&gt;’s organization,
-and we were #1 🎉 in total team steps - &lt;strong&gt;1,674,064&lt;/strong&gt; (in a company of close to 1000 employees)!&lt;/p&gt;</content><author><name></name></author><category term="Life" /><summary type="html">Just a quick update on finishing the Steptember social challenge/cause successfully. The challenge was to score 10,000 steps per day in September. You form teams of four, keep one-another accountable, compete with others and along the way, raise some money for charity.</summary></entry><entry><title type="html">Time spent programming is often time well spent</title><link href="https://stanbright.com/time-spent-programming/" rel="alternate" type="text/html" title="Time spent programming is often time well spent" /><published>2020-09-24T00:00:00+10:00</published><updated>2020-09-24T00:00:00+10:00</updated><id>https://stanbright.com/time-spent-programming</id><content type="html" xml:base="https://stanbright.com/time-spent-programming/">&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services.&lt;/p&gt;
-  &lt;/blockquote&gt;
+“Lorikeets” (<a href="https://www.instagram.com/kristina.spaghettina/">kristina.spaghettina</a>,
+<a href="https://www.instagram.com/stoyanova.kristina/">stoyanova.kristina</a>,
+<a href="https://www.instagram.com/xpucto89/">xpucto89</a> and I) was invited to join
+<a href="https://www.canva.com/">Canva</a>’s organization,
+and we were #1 🎉 in total team steps - <strong>1,674,064</strong> (in a company of close to 1000 employees)!</p>]]></content><author><name></name></author><category term="Life" /><summary type="html"><![CDATA[Just a quick update on finishing the Steptember social challenge/cause successfully. The challenge was to score 10,000 steps per day in September. You form teams of four, keep one-another accountable, compete with others and along the way, raise some money for charity.]]></summary></entry><entry><title type="html">Time spent programming is often time well spent</title><link href="https://stanbright.com/time-spent-programming/" rel="alternate" type="text/html" title="Time spent programming is often time well spent" /><published>2020-09-24T00:00:00+10:00</published><updated>2020-09-24T00:00:00+10:00</updated><id>https://stanbright.com/time-spent-programming</id><content type="html" xml:base="https://stanbright.com/time-spent-programming/"><![CDATA[<blockquote>
+  <blockquote>
+    <p>Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services.</p>
+  </blockquote>
 
-  &lt;p&gt;I concur so strongly not only because he writes about RSS, which I’m on record as supporting and using. I enjoy rolling my own simple software in almost any domain. Simple has a lot of advantages. Under my control has a lot of advantages. But the biggest advantage echoes what Dr. Drang says: Programming is often more fun than the alternative uses of my time.&lt;/p&gt;
+  <p>I concur so strongly not only because he writes about RSS, which I’m on record as supporting and using. I enjoy rolling my own simple software in almost any domain. Simple has a lot of advantages. Under my control has a lot of advantages. But the biggest advantage echoes what Dr. Drang says: Programming is often more fun than the alternative uses of my time.</p>
 
-  &lt;p&gt;I program because I like to, and because I can.&lt;/p&gt;
+  <p>I program because I like to, and because I can.</p>
 
-  &lt;p&gt;&lt;a href=&quot;http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2020-09.html#e2020-09-22T16_09_19.htm&quot;&gt;Eugene Wallingford&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p><a href="http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2020-09.html#e2020-09-22T16_09_19.htm">Eugene Wallingford</a></p>
+</blockquote>
 
-&lt;p&gt;I read the above this morning and just wanted to chime in.
-It resonates so much with me.&lt;/p&gt;
+<p>I read the above this morning and just wanted to chime in.
+It resonates so much with me.</p>
 
-&lt;p&gt;I think that there are three main reasons why time spent programming is well spent
-and joyful (when you are not dealing with “bugs”).&lt;/p&gt;
+<p>I think that there are three main reasons why time spent programming is well spent
+and joyful (when you are not dealing with “bugs”).</p>
 
-&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
-&lt;p&gt;I have an endless desire to learn, and I genuinely believe that doing is the best
+<h2 id="learning">Learning</h2>
+<p>I have an endless desire to learn, and I genuinely believe that doing is the best
 way to learn. I’ve started many toy projects along the years just for the sake of learning.
-Two quick examples: long ago, I built the &lt;a href=&quot;http://emojihomepage.com/&quot;&gt;EmojiHomepage&lt;/a&gt; to learn Vue.js;
-yesterday, I released &lt;a href=&quot;https://alertcamp.com/live&quot;&gt;Alertcamp Live&lt;/a&gt; for the sake of
-learning “Phoenix LiveView” and practice my &lt;a href=&quot;http://erlang.org/doc/system_architecture_intro/sys_arch_intro.html&quot;&gt;OTP&lt;/a&gt;
-knowledge.&lt;/p&gt;
+Two quick examples: long ago, I built the <a href="http://emojihomepage.com/">EmojiHomepage</a> to learn Vue.js;
+yesterday, I released <a href="https://alertcamp.com/live">Alertcamp Live</a> for the sake of
+learning “Phoenix LiveView” and practice my <a href="http://erlang.org/doc/system_architecture_intro/sys_arch_intro.html">OTP</a>
+knowledge.</p>
 
-&lt;h2 id=&quot;control&quot;&gt;Control&lt;/h2&gt;
-&lt;p&gt;Building things yourself puts you in control. And we, people, love being in control.
+<h2 id="control">Control</h2>
+<p>Building things yourself puts you in control. And we, people, love being in control.
 You don’t like something, you need some quirky additional feature, or
 you think something else will work better - it doesn’t matter, you are in
 control, and you can do whatever you want. Sure, there might be some rough edges,
-yet the &lt;a href=&quot;https://en.wikipedia.org/wiki/IKEA_effect&quot;&gt;IKEA Effect&lt;/a&gt; will compensate for that.&lt;/p&gt;
+yet the <a href="https://en.wikipedia.org/wiki/IKEA_effect">IKEA Effect</a> will compensate for that.</p>
 
-&lt;h2 id=&quot;creativity&quot;&gt;Creativity&lt;/h2&gt;
-&lt;p&gt;I believe that creating anything is an innate human desire and practising it always
+<h2 id="creativity">Creativity</h2>
+<p>I believe that creating anything is an innate human desire and practising it always
 leads to joyful experiences. That includes anything - complex systems, simple scripts,
 an article posted online, a wooden box. I’m sure that any craftsmanship
-will bring you more joy than many other activities.&lt;/p&gt;
+will bring you more joy than many other activities.</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;Here they are some excerpts from the relevant Hacker News
-&lt;a href=&quot;https://news.ycombinator.com/item?id=24564835&quot;&gt;discussion&lt;/a&gt;:&lt;/p&gt;
+<p>Here they are some excerpts from the relevant Hacker News
+<a href="https://news.ycombinator.com/item?id=24564835">discussion</a>:</p>
 
-&lt;p&gt;&lt;em&gt;I’ve worked on a lot of personal projects over the years that were never finished or were quickly abandoned. I used to feel bad about this, feeling like I had wasted my time. But then I realized that I learned a ton by doing all of this work.&lt;/em&gt;
-&lt;strong&gt;- larrywright&lt;/strong&gt;&lt;/p&gt;
+<p><em>I’ve worked on a lot of personal projects over the years that were never finished or were quickly abandoned. I used to feel bad about this, feeling like I had wasted my time. But then I realized that I learned a ton by doing all of this work.</em>
+<strong>- larrywright</strong></p>
 
-&lt;p&gt;&lt;em&gt;- So, tell me, how did you land a job on Google?&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;- Yeah, I was trying to redo my website…&lt;/em&gt;&lt;/p&gt;
+<p><em>- So, tell me, how did you land a job on Google?</em><br />
+<em>- Yeah, I was trying to redo my website…</em></p>
 
-&lt;p&gt;&lt;em&gt;I spent countless hours on my side project Video Hub App.&lt;/em&gt;
-&lt;em&gt;I’ve learned a great deal, and it’s immensely satisfying to work on. I’ve explored face recognition and server capabilities (learning a lot and having a good time).&lt;/em&gt;
-&lt;strong&gt;- yboris&lt;/strong&gt;&lt;/p&gt;
+<p><em>I spent countless hours on my side project Video Hub App.</em>
+<em>I’ve learned a great deal, and it’s immensely satisfying to work on. I’ve explored face recognition and server capabilities (learning a lot and having a good time).</em>
+<strong>- yboris</strong></p>
 
-&lt;p&gt;&lt;em&gt;An old colleague tried to convince me that I shouldn’t write my own job queue last night because “it’s all handled in the cloud”. It’s things like this that make me a better programmer whilst also allowing me to run software that does exactly what I want.&lt;/em&gt;
-&lt;strong&gt;- arbol&lt;/strong&gt;&lt;/p&gt;
+<p><em>An old colleague tried to convince me that I shouldn’t write my own job queue last night because “it’s all handled in the cloud”. It’s things like this that make me a better programmer whilst also allowing me to run software that does exactly what I want.</em>
+<strong>- arbol</strong></p>
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html&quot;&gt;The Code It Yourself Manifesto&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+<p><em><a href="https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html">The Code It Yourself Manifesto</a></em></p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;p.s. I will be building an RSS reader/platform in the coming weeks 🙈&lt;/p&gt;</content><author><name></name></author><category term="Tech" /><summary type="html">Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services. I concur so strongly not only because he writes about RSS, which I’m on record as supporting and using. I enjoy rolling my own simple software in almost any domain. Simple has a lot of advantages. Under my control has a lot of advantages. But the biggest advantage echoes what Dr. Drang says: Programming is often more fun than the alternative uses of my time. I program because I like to, and because I can. Eugene Wallingford</summary></entry><entry><title type="html">Domain Name Search</title><link href="https://stanbright.com/domain-name-search/" rel="alternate" type="text/html" title="Domain Name Search" /><published>2020-09-18T00:00:00+10:00</published><updated>2020-09-18T00:00:00+10:00</updated><id>https://stanbright.com/domain-name-search</id><content type="html" xml:base="https://stanbright.com/domain-name-search/">&lt;div class=&quot;video-container&quot;&gt;
-  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sP50FsAFJls&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<p>p.s. I will be building an RSS reader/platform in the coming weeks 🙈</p>]]></content><author><name></name></author><category term="Tech" /><summary type="html"><![CDATA[Was the time I spent writing my RSS scripts more than the time I would now spend thinking about the “best” RSS aggregator and reader? Doesn’t matter. I enjoyed writing the scripts. I learned new things and got satisfaction out of seeing them run correctly. I get nothing like that out of comparing apps and services. I concur so strongly not only because he writes about RSS, which I’m on record as supporting and using. I enjoy rolling my own simple software in almost any domain. Simple has a lot of advantages. Under my control has a lot of advantages. But the biggest advantage echoes what Dr. Drang says: Programming is often more fun than the alternative uses of my time. I program because I like to, and because I can. Eugene Wallingford]]></summary></entry><entry><title type="html">Domain Name Search</title><link href="https://stanbright.com/domain-name-search/" rel="alternate" type="text/html" title="Domain Name Search" /><published>2020-09-18T00:00:00+10:00</published><updated>2020-09-18T00:00:00+10:00</updated><id>https://stanbright.com/domain-name-search</id><content type="html" xml:base="https://stanbright.com/domain-name-search/"><![CDATA[<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sP50FsAFJls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
-&lt;p&gt;Yup, domain names are very important for every business, project or idea
+<p>Yup, domain names are very important for every business, project or idea
 you want to spread on the Internet. Many people spend a log of energy
 on finding the perfect name only to find out that the relevant “.com” domain has been taken.
-It is not a surprise South Park has an episode on that.&lt;/p&gt;
+It is not a surprise South Park has an episode on that.</p>
 
-&lt;p&gt;There are three major ways to perform a &lt;strong&gt;domain name search&lt;/strong&gt; and see if
-the domain you are looking for is FREE.&lt;/p&gt;
+<p>There are three major ways to perform a <strong>domain name search</strong> and see if
+the domain you are looking for is FREE.</p>
 
-&lt;h2 id=&quot;first---check-the-domain-availability-directly-on-your-domain-name-registrar&quot;&gt;First - check the domain availability directly on your domain name registrar&lt;/h2&gt;
+<h2 id="first---check-the-domain-availability-directly-on-your-domain-name-registrar">First - check the domain availability directly on your domain name registrar</h2>
 
-&lt;p&gt;This is the go-to method for most people. It is the most direct and works in general.
-Why “in general”? Because you should trust your &lt;a href=&quot;https://www.saashub.com/best-domain-name-registrar-software&quot;&gt;domain name registrar&lt;/a&gt;.
+<p>This is the go-to method for most people. It is the most direct and works in general.
+Why “in general”? Because you should trust your <a href="https://www.saashub.com/best-domain-name-registrar-software">domain name registrar</a>.
 It is not easy to prove; however, it is believed that some registrars are involved
-in &lt;a href=&quot;https://en.wikipedia.org/wiki/Cybersquatting&quot;&gt;Cybersquatting&lt;/a&gt;. You can read
-this relevant thread on Hacker News - &lt;a href=&quot;https://news.ycombinator.com/item?id=24506303&quot;&gt;Tell HN: Never search for domains on Godaddy.com&lt;/a&gt;.
+in <a href="https://en.wikipedia.org/wiki/Cybersquatting">Cybersquatting</a>. You can read
+this relevant thread on Hacker News - <a href="https://news.ycombinator.com/item?id=24506303">Tell HN: Never search for domains on Godaddy.com</a>.
 What is happening is that you search for your shiny new domain name, it is FREE,
 but you decide to postpone buying it immediately.
 However, a few days later, when you have mustered up the enthusiasm to buy the name,
-you find out that your name is already taken. Believe me, it’s a very saddening feeling.&lt;/p&gt;
+you find out that your name is already taken. Believe me, it’s a very saddening feeling.</p>
 
-&lt;p&gt;The tricky part is that by using their search, registrars KNOW which
+<p>The tricky part is that by using their search, registrars KNOW which
 domain names you are interested in as well as the trendy names
 that people, on the whole, are looking for. So, they have the data and means to
 buy those domains and then try reselling them for more (Cybersquatting).
 Of course, if they are caught doing that, it could be detrimental to their business.
 That’s why I still believe that most registrars are not doing it.
-Yet you never know.&lt;/p&gt;
+Yet you never know.</p>
 
-&lt;h2 id=&quot;second---check-availability-through-a-third-party-service&quot;&gt;Second - check availability through a third-party service&lt;/h2&gt;
+<h2 id="second---check-availability-through-a-third-party-service">Second - check availability through a third-party service</h2>
 
-&lt;p&gt;This is one of the options I’ve been using from time to time. These are utility services
+<p>This is one of the options I’ve been using from time to time. These are utility services
 that make money when they refer you to the domain name registrars. For example,
-&lt;a href=&quot;https://www.namebounce.com/&quot;&gt;NameBounce&lt;/a&gt; and its &lt;a href=&quot;https://www.saashub.com/namebounce-alternatives&quot;&gt;alternatives&lt;/a&gt;
+<a href="https://www.namebounce.com/">NameBounce</a> and its <a href="https://www.saashub.com/namebounce-alternatives">alternatives</a>
 can generate a few dozens of free domain names based on a keyword.
 In my opinion, this is a bit safer as long as you use a generic keyword.
 In most cases the base “keyword.com” will be taken but you will be given a list of
-dozens of other free options (e.g. Keyword&lt;b&gt;Life&lt;/b&gt;.com &lt;b&gt;Max&lt;/b&gt;Keyword.com, etc)
-So, whoever knows that you have interest in &lt;em&gt;keyword.com&lt;/em&gt;, they can’t know which of
+dozens of other free options (e.g. Keyword<b>Life</b>.com <b>Max</b>Keyword.com, etc)
+So, whoever knows that you have interest in <em>keyword.com</em>, they can’t know which of
 the other hundred options you’ve decided to use. Moreover, it will be very expensive
-to grab all of them.&lt;/p&gt;
+to grab all of them.</p>
 
-&lt;h2 id=&quot;third---go-bare-metal-and-ask-the-official-whois-database&quot;&gt;Third - go “bare metal” and ask the official &lt;a href=&quot;https://en.wikipedia.org/wiki/WHOIS&quot;&gt;WHOIS&lt;/a&gt; database.&lt;/h2&gt;
+<h2 id="third---go-bare-metal-and-ask-the-official-whois-database">Third - go “bare metal” and ask the official <a href="https://en.wikipedia.org/wiki/WHOIS">WHOIS</a> database.</h2>
 
-&lt;p&gt;This is not the most straightforward option, but it is &lt;strong&gt;the most secure way to perform
-a &lt;em&gt;domain name search&lt;/em&gt;&lt;/strong&gt; and check if a name is available. What you have to do is
-opening a terminal typing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;whois my-domain-name.com&lt;/code&gt; (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;whois -v my-domain-name.com&lt;/code&gt; if using Windows)
-and reading/interpreting the results.&lt;/p&gt;
+<p>This is not the most straightforward option, but it is <strong>the most secure way to perform
+a <em>domain name search</em></strong> and check if a name is available. What you have to do is
+opening a terminal typing <code class="language-plaintext highlighter-rouge">whois my-domain-name.com</code> (<code class="language-plaintext highlighter-rouge">whois -v my-domain-name.com</code> if using Windows)
+and reading/interpreting the results.</p>
 
-&lt;p&gt;In the response from the server, you can find out who and when registered the name
+<p>In the response from the server, you can find out who and when registered the name
 and if it is free. There are two inconveniences following this approach. You
 have to read all the data (a few screens) that was returned and learn to read it.
 That may take some time if you don’t have experience. If the name is free,
 somewhere at the end of the whois-response,
-there will be a line like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;No match for domain &quot;SAASHUB123.COM&quot;.&lt;/code&gt;.
-Then, when you decide, just go and register the domain.&lt;/p&gt;
+there will be a line like <code class="language-plaintext highlighter-rouge">No match for domain "SAASHUB123.COM".</code>.
+Then, when you decide, just go and register the domain.</p>
 
-&lt;p&gt;As this third option is my preferred approach for checking names, I’ve been using
+<p>As this third option is my preferred approach for checking names, I’ve been using
 a simple bash script that automates the boring parts. You can copy-paste it
-from this Github gist - &lt;a href=&quot;https://gist.github.com/StanBright/b236675e272ace1b385a9a0f2d543a1f&quot;&gt;domain_check.sh&lt;/a&gt;.
-To set it up, copy that script to your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/bin&lt;/code&gt; directory, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;chmod 755 ~/domain-check.sh&lt;/code&gt; and list
-all extensions (separated by a space) in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DOMAINS=( &apos;.com&apos; &apos;.io&apos; )&lt;/code&gt; section.&lt;/p&gt;
+from this Github gist - <a href="https://gist.github.com/StanBright/b236675e272ace1b385a9a0f2d543a1f">domain_check.sh</a>.
+To set it up, copy that script to your <code class="language-plaintext highlighter-rouge">~/bin</code> directory, <code class="language-plaintext highlighter-rouge">chmod 755 ~/domain-check.sh</code> and list
+all extensions (separated by a space) in the <code class="language-plaintext highlighter-rouge">DOMAINS=( '.com' '.io' )</code> section.</p>
 
-&lt;p&gt;Then checking for an available name is as simple as opening your terminal, and
-you don’t have to worry that someone will register the same name tomorrow.&lt;/p&gt;
+<p>Then checking for an available name is as simple as opening your terminal, and
+you don’t have to worry that someone will register the same name tomorrow.</p>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;stan@StansMacBook15:~$ domain_check.sh saashub123
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>stan@StansMacBook15:~$ domain_check.sh saashub123
 saashub123.com - available
 saashub123.io - available
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-And remember to follow “&lt;a href=&quot;/3-day-rule&quot;&gt;The 3 day domain name rule&lt;/a&gt;”
-before buying any new names.&lt;/p&gt;</content><author><name></name></author><category term="Tech" /><summary type="html"></summary></entry><entry><title type="html">It always takes more time</title><link href="https://stanbright.com/longer/" rel="alternate" type="text/html" title="It always takes more time" /><published>2020-09-15T22:47:00+10:00</published><updated>2020-09-15T22:47:00+10:00</updated><id>https://stanbright.com/longer</id><content type="html" xml:base="https://stanbright.com/longer/">&lt;p&gt;&lt;strong&gt;It always takes more time&lt;/strong&gt;&lt;br /&gt;
-…to lose weight&lt;br /&gt;
-…to gain weight&lt;br /&gt;
-…to build good habits&lt;br /&gt;
-…to get rid of bad habits&lt;br /&gt;
-…to arrive on time&lt;br /&gt;
-…to finish the project on time&lt;br /&gt;
-…to reach your goal&lt;br /&gt;
-…for your project to start making money&lt;br /&gt;&lt;/p&gt;
+</code></pre></div></div>
+<p><br />
+And remember to follow “<a href="/3-day-rule">The 3 day domain name rule</a>”
+before buying any new names.</p>]]></content><author><name></name></author><category term="Tech" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">It always takes more time</title><link href="https://stanbright.com/longer/" rel="alternate" type="text/html" title="It always takes more time" /><published>2020-09-15T22:47:00+10:00</published><updated>2020-09-15T22:47:00+10:00</updated><id>https://stanbright.com/longer</id><content type="html" xml:base="https://stanbright.com/longer/"><![CDATA[<p><strong>It always takes more time</strong><br />
+…to lose weight<br />
+…to gain weight<br />
+…to build good habits<br />
+…to get rid of bad habits<br />
+…to arrive on time<br />
+…to finish the project on time<br />
+…to reach your goal<br />
+…for your project to start making money<br /></p>
 
-&lt;p&gt;&lt;strong&gt;But that is OK&lt;/strong&gt;. All we have to do is push forward. Every day. Giving our all.
-And account that everything will take longer than we want it. Most of the time.&lt;/p&gt;
+<p><strong>But that is OK</strong>. All we have to do is push forward. Every day. Giving our all.
+And account that everything will take longer than we want it. Most of the time.</p>
 
-&lt;p&gt;Two months ago, I started building a “simple” job board - &lt;a href=&quot;https://99remotejobs.com&quot;&gt;99remotejobs.com&lt;/a&gt;.
-I thought it would take me a week. It took a month!&lt;/p&gt;
+<p>Two months ago, I started building a “simple” job board - <a href="https://99remotejobs.com">99remotejobs.com</a>.
+I thought it would take me a week. It took a month!</p>
 
-&lt;p&gt;This short post was supposed to take me only 15 minutes, of course, yet it took 40.&lt;/p&gt;
+<p>This short post was supposed to take me only 15 minutes, of course, yet it took 40.</p>
 
-&lt;p&gt;When I started &lt;a href=&quot;https://www.saashub.com&quot;&gt;SaaSHub&lt;/a&gt; I though AND CALCULATED that
+<p>When I started <a href="https://www.saashub.com">SaaSHub</a> I though AND CALCULATED that
 if the project had 10,000 visitors a day, I would be all set - making enough
 passive income to have a comfortable life. That was naive. It will take much more.
 The project has about 8,000 visitors a day today (80% of my initial target),
 and it is making only 15% of my target.
-But that is OK. I keep pushing forward - every day.&lt;/p&gt;
+But that is OK. I keep pushing forward - every day.</p>
 
-&lt;p&gt;The moral of the story - be prepared both psychologically and financially that
+<p>The moral of the story - be prepared both psychologically and financially that
 our endeavours will take more time. If you are pressed to give an end date of a
 project, multiply by 2 your initial guess (yes, it is a guess) and then
-extend it a bit more.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><summary type="html">It always takes more time …to lose weight …to gain weight …to build good habits …to get rid of bad habits …to arrive on time …to finish the project on time …to reach your goal …for your project to start making money</summary></entry><entry><title type="html">Marcus Aurelius on Pragmatism</title><link href="https://stanbright.com/marcus-aurelius-pragmatism/" rel="alternate" type="text/html" title="Marcus Aurelius on Pragmatism" /><published>2020-09-14T23:00:00+10:00</published><updated>2020-09-14T23:00:00+10:00</updated><id>https://stanbright.com/marcus-aurelius-pragmatism</id><content type="html" xml:base="https://stanbright.com/marcus-aurelius-pragmatism/">&lt;p&gt;I’ve been reading “&lt;a href=&quot;https://www.goodreads.com/book/show/29093292-the-daily-stoic&quot;&gt;The Daily Stoic&lt;/a&gt;”
+extend it a bit more.</p>]]></content><author><name></name></author><category term="Wisdom" /><summary type="html"><![CDATA[It always takes more time …to lose weight …to gain weight …to build good habits …to get rid of bad habits …to arrive on time …to finish the project on time …to reach your goal …for your project to start making money]]></summary></entry><entry><title type="html">Marcus Aurelius on Pragmatism</title><link href="https://stanbright.com/marcus-aurelius-pragmatism/" rel="alternate" type="text/html" title="Marcus Aurelius on Pragmatism" /><published>2020-09-14T23:00:00+10:00</published><updated>2020-09-14T23:00:00+10:00</updated><id>https://stanbright.com/marcus-aurelius-pragmatism</id><content type="html" xml:base="https://stanbright.com/marcus-aurelius-pragmatism/"><![CDATA[<p>I’ve been reading “<a href="https://www.goodreads.com/book/show/29093292-the-daily-stoic">The Daily Stoic</a>”
 for the last 2 years. Almost every day. To me, that’s one of the best ways to
 jump-start my days, and it takes only a few minutes. I can easily say that
-it’s become a habit already.&lt;/p&gt;
+it’s become a habit already.</p>
 
-&lt;p&gt;Here they are three of my highlighted quotes by &lt;a href=&quot;https://en.wikipedia.org/wiki/Marcus_Aurelius&quot;&gt;Marcus Aurelius&lt;/a&gt; on Pragmatism.&lt;/p&gt;
+<p>Here they are three of my highlighted quotes by <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Marcus Aurelius</a> on Pragmatism.</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Start with where the world is&lt;/strong&gt;&lt;/p&gt;
+<blockquote>
+  <p><strong>Start with where the world is</strong></p>
 
-  &lt;p&gt;Do now what nature demands of you. Get right to it if that’s in your power.
+  <p>Do now what nature demands of you. Get right to it if that’s in your power.
 Don’t look around to see if people will know about it. Don’t await the perfection
-of Plato’s &lt;em&gt;Republic&lt;/em&gt;, but be satisfied with even the smallest step forward.&lt;/p&gt;
-&lt;/blockquote&gt;
+of Plato’s <em>Republic</em>, but be satisfied with even the smallest step forward.</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Anything can be an advantage&lt;/strong&gt;&lt;/p&gt;
+<blockquote>
+  <p><strong>Anything can be an advantage</strong></p>
 
-  &lt;p&gt;Just as nature of rational things has given to each person their rational powers,
+  <p>Just as nature of rational things has given to each person their rational powers,
 so it also gives us this power - just as nature turns to its own purpose any obstacle
 or any opposition, so any rational person can convert any obstacle into the raw
-material for their own purpose.&lt;/p&gt;
-&lt;/blockquote&gt;
+material for their own purpose.</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Don’t sweat the small stuff&lt;/strong&gt;&lt;/p&gt;
+<blockquote>
+  <p><strong>Don’t sweat the small stuff</strong></p>
 
-  &lt;p&gt;It is essential for you to remember that the attention you give to any action
+  <p>It is essential for you to remember that the attention you give to any action
 should be in due proportion to its worth, for then you won’t tire and give up,
-if you aren’t busying yourself with lesser things beyond what should be allowed.&lt;/p&gt;
-&lt;/blockquote&gt;
+if you aren’t busying yourself with lesser things beyond what should be allowed.</p>
+</blockquote>
 
-&lt;p&gt;Apart from being exceptionally wise and one of the most quoted stoics, Marcus Aurelius
+<p>Apart from being exceptionally wise and one of the most quoted stoics, Marcus Aurelius
 was amongst the longest-reigning Roman emperors (19 years). As a perspective,
-&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_Roman_emperors&quot;&gt;many emperors&lt;/a&gt;
-lasted between a few months and a few years.&lt;/p&gt;</content><author><name></name></author><category term="Quotes" /><summary type="html">I’ve been reading “The Daily Stoic” for the last 2 years. Almost every day. To me, that’s one of the best ways to jump-start my days, and it takes only a few minutes. I can easily say that it’s become a habit already.</summary></entry><entry><title type="html">Why I don’t do affiliate marketing on SaaSHub</title><link href="https://stanbright.com/no-affiliate-marketing/" rel="alternate" type="text/html" title="Why I don’t do affiliate marketing on SaaSHub" /><published>2020-09-13T19:10:00+10:00</published><updated>2020-09-13T19:10:00+10:00</updated><id>https://stanbright.com/no-affiliate-marketing</id><content type="html" xml:base="https://stanbright.com/no-affiliate-marketing/">&lt;p&gt;During the last year, I’ve been approached on a regular basis with requests to
+<a href="https://en.wikipedia.org/wiki/List_of_Roman_emperors">many emperors</a>
+lasted between a few months and a few years.</p>]]></content><author><name></name></author><category term="Quotes" /><summary type="html"><![CDATA[I’ve been reading “The Daily Stoic” for the last 2 years. Almost every day. To me, that’s one of the best ways to jump-start my days, and it takes only a few minutes. I can easily say that it’s become a habit already.]]></summary></entry><entry><title type="html">Why I don’t do affiliate marketing on SaaSHub</title><link href="https://stanbright.com/no-affiliate-marketing/" rel="alternate" type="text/html" title="Why I don’t do affiliate marketing on SaaSHub" /><published>2020-09-13T19:10:00+10:00</published><updated>2020-09-13T19:10:00+10:00</updated><id>https://stanbright.com/no-affiliate-marketing</id><content type="html" xml:base="https://stanbright.com/no-affiliate-marketing/"><![CDATA[<p>During the last year, I’ve been approached on a regular basis with requests to
 take part in various affiliate and referral programs. To be honest, some
 of them seemed decent and applicable to SaaSHub. For example, a VPN service.
-If we take the “&lt;a href=&quot;https://www.saashub.com/best-vpn-software&quot;&gt;Best VPN Software&lt;/a&gt;” page,
+If we take the “<a href="https://www.saashub.com/best-vpn-software">Best VPN Software</a>” page,
 it is quite suitable for including an affiliate link to a relevant VPN service.
 SaaSHub could drive a few sales, and I could make some additional money. Perfect.
-Well, it is a bit more complicated than that, at least to me.&lt;/p&gt;
+Well, it is a bit more complicated than that, at least to me.</p>
 
-&lt;p&gt;First, yes, I may make a hundred dollars through a particular affiliate program;
+<p>First, yes, I may make a hundred dollars through a particular affiliate program;
 however, each product will require separate management, accounting and collecting
 the money through a different channel. The overhead and admin will be more than
-I can afford in regards to time and energy. It is just not viable at this stage.&lt;/p&gt;
+I can afford in regards to time and energy. It is just not viable at this stage.</p>
 
-&lt;p&gt;Second, I will always be trying to be as objective as possible with the product
+<p>Second, I will always be trying to be as objective as possible with the product
 lists on SaaSHub. However, if there were affiliate links and the relevant disclosures,
 many people will start questioning how genuine the ordering of the products is.
 In essence, the cost of using affiliate links would be losing some trust
-even if you are trustworthy.&lt;/p&gt;
+even if you are trustworthy.</p>
 
-&lt;p&gt;My “workaround” is offering a self-service and very affordable &lt;a href=&quot;https://www.saashub.com/featured-products&quot;&gt;product promo&lt;/a&gt;. It is that easy. As long as a product has been approved on SaaSHub,
+<p>My “workaround” is offering a self-service and very affordable <a href="https://www.saashub.com/featured-products">product promo</a>. It is that easy. As long as a product has been approved on SaaSHub,
 it can be promoted for $99/month. That subscription fee is nothing for the marketing
 budges of most SaaS products, and they can easily test whether it works for them.
 At the end of the month, there are no additional admin costs and I get one single
 payment from one source instead of 50 payments from 50 distinct sources arriving
-in 28 different days (if I were using affiliates).&lt;/p&gt;
+in 28 different days (if I were using affiliates).</p>
 
-&lt;p&gt;In the end, I don’t think that affiliate and referral programs are bad or dishonest.
+<p>In the end, I don’t think that affiliate and referral programs are bad or dishonest.
 If one discloses them and doesn’t promote “fake” products, they could possibly
 be a viable revenue stream.
-They just don’t work for SaaShub and me and now.&lt;/p&gt;</content><author><name></name></author><category term="Business" /><summary type="html">During the last year, I’ve been approached on a regular basis with requests to take part in various affiliate and referral programs. To be honest, some of them seemed decent and applicable to SaaSHub. For example, a VPN service. If we take the “Best VPN Software” page, it is quite suitable for including an affiliate link to a relevant VPN service. SaaSHub could drive a few sales, and I could make some additional money. Perfect. Well, it is a bit more complicated than that, at least to me.</summary></entry><entry><title type="html">Running and Reading - the key to life</title><link href="https://stanbright.com/running-and-reading/" rel="alternate" type="text/html" title="Running and Reading - the key to life" /><published>2020-09-12T20:25:00+10:00</published><updated>2020-09-12T20:25:00+10:00</updated><id>https://stanbright.com/running-and-reading</id><content type="html" xml:base="https://stanbright.com/running-and-reading/">&lt;div class=&quot;video-container&quot;&gt;
-  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-08M7JpLpl4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+They just don’t work for SaaShub and me and now.</p>]]></content><author><name></name></author><category term="Business" /><summary type="html"><![CDATA[During the last year, I’ve been approached on a regular basis with requests to take part in various affiliate and referral programs. To be honest, some of them seemed decent and applicable to SaaSHub. For example, a VPN service. If we take the “Best VPN Software” page, it is quite suitable for including an affiliate link to a relevant VPN service. SaaSHub could drive a few sales, and I could make some additional money. Perfect. Well, it is a bit more complicated than that, at least to me.]]></summary></entry><entry><title type="html">Running and Reading - the key to life</title><link href="https://stanbright.com/running-and-reading/" rel="alternate" type="text/html" title="Running and Reading - the key to life" /><published>2020-09-12T20:25:00+10:00</published><updated>2020-09-12T20:25:00+10:00</updated><id>https://stanbright.com/running-and-reading</id><content type="html" xml:base="https://stanbright.com/running-and-reading/"><![CDATA[<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-08M7JpLpl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
-&lt;p&gt;This has always been one of my favourite Will Smith’s speeches. It’s short
-and powerful. If you haven’t listened to it, please do. Now.&lt;/p&gt;
+<p>This has always been one of my favourite Will Smith’s speeches. It’s short
+and powerful. If you haven’t listened to it, please do. Now.</p>
 
-&lt;p&gt;I will transcribe it here, so it stays written down for posterity.&lt;br /&gt;
-Here it is - &lt;strong&gt;Will Smith’s wisdom&lt;/strong&gt;:&lt;/p&gt;
+<p>I will transcribe it here, so it stays written down for posterity.<br />
+Here it is - <strong>Will Smith’s wisdom</strong>:</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;The key to life is running and reading!&lt;/p&gt;
+<blockquote>
+  <p>The key to life is running and reading!</p>
 
-  &lt;p&gt;&lt;strong&gt;Why running?&lt;/strong&gt; When you are running, there is a &lt;em&gt;little person&lt;/em&gt; that talks to you,
+  <p><strong>Why running?</strong> When you are running, there is a <em>little person</em> that talks to you,
 and that little person says “Oh, I’m tired, my lungs are going to pop, I’m so hurt,
 I’m so tired, there’s no way I could possibly continue.”. And YOU want to quit.
 That person, if you learn how to defeat that person when you are running,
-you will learn how to not quit when things get hard in your life.&lt;/p&gt;
+you will learn how to not quit when things get hard in your life.</p>
 
-  &lt;p&gt;&lt;strong&gt;Why reading?&lt;/strong&gt; The reason that reading is so important - there’ve been millions
+  <p><strong>Why reading?</strong> The reason that reading is so important - there’ve been millions
 and billions and gazillions of people that have lived before all of us.
 There’s no new problem you could have - with your parents, with school… with anything.
-There’s no new problem that someone hasn’t already solved and wrote about it in a book.&lt;/p&gt;
-&lt;/blockquote&gt;
+There’s no new problem that someone hasn’t already solved and wrote about it in a book.</p>
+</blockquote>
 
-&lt;p&gt;OK, as a person working in tech, I know that there are problems
-that are new and people haven’t written about them. Yet, “reading” helps us solve unsolved problems.&lt;/p&gt;
+<p>OK, as a person working in tech, I know that there are problems
+that are new and people haven’t written about them. Yet, “reading” helps us solve unsolved problems.</p>
 
-&lt;p&gt;BONUS: Running makes you fit and happier. It makes you more productive in general.&lt;br /&gt;
+<p>BONUS: Running makes you fit and happier. It makes you more productive in general.<br />
 BONUS2: For more motivation about running, I’d recommend listening/reading
-“&lt;a href=&quot;https://www.goodreads.com/book/show/41721428-can-t-hurt-me&quot;&gt;Can’t hurt me&lt;/a&gt;”
-by &lt;a href=&quot;https://www.youtube.com/watch?v=h-F0uJC10Js&quot;&gt;David Goggins&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Wisdom" /><summary type="html"></summary></entry><entry><title type="html">On always looking for opportunities</title><link href="https://stanbright.com/always-looking-for-opportunities/" rel="alternate" type="text/html" title="On always looking for opportunities" /><published>2020-09-11T10:20:00+10:00</published><updated>2020-09-11T10:20:00+10:00</updated><id>https://stanbright.com/always-looking-for-opportunities</id><content type="html" xml:base="https://stanbright.com/always-looking-for-opportunities/">&lt;p&gt;There are great opportunities - all the time. We just have to be actively looking for them.
-And we should be prepared to be able to catch the moment when it comes.&lt;/p&gt;
+“<a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">Can’t hurt me</a>”
+by <a href="https://www.youtube.com/watch?v=h-F0uJC10Js">David Goggins</a>.</p>]]></content><author><name></name></author><category term="Wisdom" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">On always looking for opportunities</title><link href="https://stanbright.com/always-looking-for-opportunities/" rel="alternate" type="text/html" title="On always looking for opportunities" /><published>2020-09-11T10:20:00+10:00</published><updated>2020-09-11T10:20:00+10:00</updated><id>https://stanbright.com/always-looking-for-opportunities</id><content type="html" xml:base="https://stanbright.com/always-looking-for-opportunities/"><![CDATA[<p>There are great opportunities - all the time. We just have to be actively looking for them.
+And we should be prepared to be able to catch the moment when it comes.</p>
 
-&lt;p&gt;I went to a local Sushi place recently. Nothing exciting, however, instead of
+<p>I went to a local Sushi place recently. Nothing exciting, however, instead of
 writing down my name and contacts on a piece of paper, I was asked to simply
 scan a barcode and fill in a very simple and unobtrusive form. Easy. Here in
 Australia, restaurants are required to keep a record of the who and when visited
@@ -324,21 +324,21 @@ their spot so that if a COVID-19 case shows up, they can do a more effective
 contact tracking. OK, a few days later, I went to a different restaurant and was
 asked to scan a barcode again and enter my details. They were using
 the same service as my details were prefilled. All I had to do was click
-a big centred green button. How convenient.&lt;/p&gt;
+a big centred green button. How convenient.</p>
 
-&lt;p&gt;On the way home, I was thinking about how this service was built specifically to cater to
+<p>On the way home, I was thinking about how this service was built specifically to cater to
 the needs around COVID. It was very simple and ALL restaurants around Australia and New Zealand,
 have to comply with this new requirement. I checked the website of the service,
 a SaaS product, its entry price was $19 per month, and they stated that 60,000
 businesses around Aus and NZ were using them! That’d be around $120,000 per month
 for a simple check-in app. Of course, you will have to spend some money on marketing
-and effort on your go-to-market strategy, yet it’s a perfect example of catching the moment.&lt;/p&gt;
+and effort on your go-to-market strategy, yet it’s a perfect example of catching the moment.</p>
 
-&lt;p&gt;I, and I imagine many other makers, can easily build such a simple service in a month.
+<p>I, and I imagine many other makers, can easily build such a simple service in a month.
 Even better, a team of a technical and a sales person could bootstrap such a business
 quite easily should they see the opportunity and execute quickly enough. Yes,
 this requirement won’t last forever; however, I’m sure that many founders wouldn’t
-mind making a million dollars in a year.&lt;/p&gt;
+mind making a million dollars in a year.</p>
 
-&lt;p&gt;I believe that similar opportunities show up all the time. All it takes is being
-prepared so that you can execute quickly enough when you notice them.&lt;/p&gt;</content><author><name></name></author><category term="Ideas" /><summary type="html">There are great opportunities - all the time. We just have to be actively looking for them. And we should be prepared to be able to catch the moment when it comes.</summary></entry></feed>
+<p>I believe that similar opportunities show up all the time. All it takes is being
+prepared so that you can execute quickly enough when you notice them.</p>]]></content><author><name></name></author><category term="Ideas" /><summary type="html"><![CDATA[There are great opportunities - all the time. We just have to be actively looking for them. And we should be prepared to be able to catch the moment when it comes.]]></summary></entry></feed>
