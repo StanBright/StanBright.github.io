@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2025-01-25T12:06:01+11:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">About.me … and failing to pivot</title><link href="https://stanbright.com/about.me/" rel="alternate" type="text/html" title="About.me … and failing to pivot" /><published>2021-11-25T12:31:00+11:00</published><updated>2021-11-25T12:31:00+11:00</updated><id>https://stanbright.com/about.me</id><content type="html" xml:base="https://stanbright.com/about.me/"><![CDATA[<p>Some context - <strong>about.me</strong> was one of the first single-page personal websites.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://stanbright.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://stanbright.com/" rel="alternate" type="text/html" /><updated>2025-01-27T18:19:49+11:00</updated><id>https://stanbright.com/feed.xml</id><title type="html">Stan Bright</title><subtitle>Founder of SaaSHub &amp; LibHunt. Having more ideas than time. Ruby on Rails enthusiast. 🥑👉🍞 p.s. Sweat dreams are made of hard work. Who am I to disagree?</subtitle><entry><title type="html">Laziness</title><link href="https://stanbright.com/laziness/" rel="alternate" type="text/html" title="Laziness" /><published>2025-01-27T00:00:00+11:00</published><updated>2025-01-27T00:00:00+11:00</updated><id>https://stanbright.com/laziness</id><content type="html" xml:base="https://stanbright.com/laziness/"><![CDATA[<h1 id="laziness-wont-slash-you-it-will-lash-you">Laziness won’t slash you, it will lash you.</h1>
+
+<p>i.e. whenever you are considering being lazy, remember, it won’t kill you, it will “simply” make you feel miserable in the long run.</p>]]></content><author><name></name></author><category term="Wisdom" /><category term="Wisdom" /><summary type="html"><![CDATA[Laziness won’t slash you, it will lash you.]]></summary></entry><entry><title type="html">About.me … and failing to pivot</title><link href="https://stanbright.com/about.me/" rel="alternate" type="text/html" title="About.me … and failing to pivot" /><published>2021-11-25T12:31:00+11:00</published><updated>2021-11-25T12:31:00+11:00</updated><id>https://stanbright.com/about.me</id><content type="html" xml:base="https://stanbright.com/about.me/"><![CDATA[<p>Some context - <strong>about.me</strong> was one of the first single-page personal websites.
 All it offered was a simple online presence for people. It was big when it was released in 2010 -
 a lot of publicity and lots of famous people pushing their personal brands online for the first time.
 It was one of those sweet ideas where you didn’t need much tech. The mere ownership
@@ -313,32 +315,4 @@ that are new and people haven’t written about them. Yet, “reading” helps u
 <p>BONUS: Running makes you fit and happier. It makes you more productive in general.<br />
 BONUS2: For more motivation about running, I’d recommend listening/reading
 “<a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">Can’t hurt me</a>”
-by <a href="https://www.youtube.com/watch?v=h-F0uJC10Js">David Goggins</a>.</p>]]></content><author><name></name></author><category term="Wisdom" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">On always looking for opportunities</title><link href="https://stanbright.com/always-looking-for-opportunities/" rel="alternate" type="text/html" title="On always looking for opportunities" /><published>2020-09-11T10:20:00+10:00</published><updated>2020-09-11T10:20:00+10:00</updated><id>https://stanbright.com/always-looking-for-opportunities</id><content type="html" xml:base="https://stanbright.com/always-looking-for-opportunities/"><![CDATA[<p>There are great opportunities - all the time. We just have to be actively looking for them.
-And we should be prepared to be able to catch the moment when it comes.</p>
-
-<p>I went to a local Sushi place recently. Nothing exciting, however, instead of
-writing down my name and contacts on a piece of paper, I was asked to simply
-scan a barcode and fill in a very simple and unobtrusive form. Easy. Here in
-Australia, restaurants are required to keep a record of the who and when visited
-their spot so that if a COVID-19 case shows up, they can do a more effective
-contact tracking. OK, a few days later, I went to a different restaurant and was
-asked to scan a barcode again and enter my details. They were using
-the same service as my details were prefilled. All I had to do was click
-a big centred green button. How convenient.</p>
-
-<p>On the way home, I was thinking about how this service was built specifically to cater to
-the needs around COVID. It was very simple and ALL restaurants around Australia and New Zealand,
-have to comply with this new requirement. I checked the website of the service,
-a SaaS product, its entry price was $19 per month, and they stated that 60,000
-businesses around Aus and NZ were using them! That’d be around $120,000 per month
-for a simple check-in app. Of course, you will have to spend some money on marketing
-and effort on your go-to-market strategy, yet it’s a perfect example of catching the moment.</p>
-
-<p>I, and I imagine many other makers, can easily build such a simple service in a month.
-Even better, a team of a technical and a sales person could bootstrap such a business
-quite easily should they see the opportunity and execute quickly enough. Yes,
-this requirement won’t last forever; however, I’m sure that many founders wouldn’t
-mind making a million dollars in a year.</p>
-
-<p>I believe that similar opportunities show up all the time. All it takes is being
-prepared so that you can execute quickly enough when you notice them.</p>]]></content><author><name></name></author><category term="Ideas" /><summary type="html"><![CDATA[There are great opportunities - all the time. We just have to be actively looking for them. And we should be prepared to be able to catch the moment when it comes.]]></summary></entry></feed>
+by <a href="https://www.youtube.com/watch?v=h-F0uJC10Js">David Goggins</a>.</p>]]></content><author><name></name></author><category term="Wisdom" /><summary type="html"><![CDATA[]]></summary></entry></feed>
